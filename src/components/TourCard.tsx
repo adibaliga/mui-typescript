@@ -7,7 +7,6 @@ import AccessTime from "@mui/icons-material/AccessTime";
 import Rating from "@mui/material/Rating";
 import { createTheme, ThemeProvider } from "@mui/material";
 import { Link } from "react-router-dom";
-import { Tour } from "../global";
 
 const theme = createTheme({
   components: {

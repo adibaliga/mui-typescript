@@ -3,7 +3,6 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import cities from "../data.json";
 import { Typography } from "@mui/material";
-import { Tour, City } from "../global";
 
 const Home = () => {
   return (
